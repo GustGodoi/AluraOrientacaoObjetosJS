@@ -1,0 +1,28 @@
+{
+  "name": "orientacaoobjetosjs",
+  "version": "1.0.0",
+  "description": "Desenvolvimento orientado a objetos com JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustGodoi/AluraOrientacaoObjetosJS.git"
+  },
+  "keywords": [
+    "js",
+    "Orientado",
+    "a",
+    "Obejtos"
+  ],
+  "author": "Gustavo Godoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustGodoi/AluraOrientacaoObjetosJS/issues"
+  },
+  "homepage": "https://github.com/GustGodoi/AluraOrientacaoObjetosJS#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
